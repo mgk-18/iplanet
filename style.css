@@ -1,0 +1,102 @@
+body{
+    background-image: url(image/apple.bg.PNG);
+}
+.a{
+    text-align: center;
+    color: blue;
+}
+ul a{
+    text-decoration: none;
+    color: blue;
+}
+ul{
+    background-color: black;
+    border: 0.1px lightgray solid;
+    overflow: hidden;
+    margin-bottom: 50px;
+    position: sticky;
+    top: 0%;
+    padding-bottom: 0%;
+}
+ul :hover{
+    background-color: white;
+}
+li{
+    float: left;
+    padding: 18px;
+    list-style-type: none;
+}
+.b{
+    float: right;
+}
+img{
+    width: 200px;
+    height: 300px;
+    border-radius: 30px;
+    padding: 10px;
+}
+.d{
+    padding: 5px;
+    display: inline-block;
+    border: 1.5px rgb(239, 229, 229)  solid;
+    border-radius: 16px;
+    margin: 12px;
+    margin-bottom: 50px;
+}
+p{
+    padding: 13px;
+    font-size: 15px;
+    font-weight: 1000;
+    color: blue;
+    text-align: center;
+}
+.c{
+    padding-left: 100px;
+    border: 5px rgb(0, 0, 0) solid;
+}
+.d:hover{
+    transform: scale(1.1);
+    border-color: rgb(10, 18, 26);
+}
+footer{
+    color: blue;
+    text-align: center;
+    margin-right: 40px;
+}
+.e{
+    background-color: black;
+    color: white;
+    text-align: center;
+    border-radius: 7px;
+}
+.f{
+    background-color: black;
+    color:white;
+    float:right;
+    border-radius: 7px; 
+}
+.g{
+    text-align: center;
+    overflow: hidden;
+    color: blue;
+    background-color: black;
+}
+.g:hover{
+    background-color: black;
+}
+.h{
+  font-size: xx-large;
+}
+.i{
+    font-size: x-large;
+}
+.alpha{
+    font-size: x-large;
+}
+.beta{
+    padding-right: 300px;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    padding-left: 10px;
+    border-radius: 8px;
+}
