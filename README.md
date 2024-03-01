@@ -1,3 +1,3 @@
 # iplanet
 
-https://mgk-xo.github.io/iplanet/
+https://mgk-18.github.io/iplanet/
